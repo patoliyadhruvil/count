@@ -1,0 +1,12 @@
+button{
+    margin: 5px;
+}
+
+img{
+    width: 200px;
+    border-radius: 50%;
+}
+.btt{
+    border: none;
+    padding: 10px 15px;
+}
